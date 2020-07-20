@@ -1,0 +1,9 @@
+[package]
+name = "in3-examples"
+version = "0.1.0"
+authors = ["slock.it <products@slock.it>"]
+edition = "2018"
+
+[dependencies]
+in3 = "1.0.0"
+futures-executor = "0.3.5"
